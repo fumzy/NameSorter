@@ -1,0 +1,20 @@
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build output
+bin/
+obj/
+Debug/
+Release/
+
+# Test results
+TestResults/
+coverage/
+
+# Generated files
+sorted-names-list.txt
+thousand-names.txt
+

@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="unsorted-names-list.txt" />
+  </Folder>
+  <Project Path="NameSorter.Console/NameSorter.Console.csproj" Id="f0cfdcb5-7140-44cc-a207-91e8cec063e7" />
+  <Project Path="NameSorter.Tests/NameSorter.Tests.csproj" Id="5c5d07b6-c5a4-4621-ba11-d47c8ec6f6b2" />
+</Solution>
