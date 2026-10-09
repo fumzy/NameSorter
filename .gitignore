@@ -361,3 +361,8 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+
+# NameSorter generated files
+sorted-names-list.txt
+thousand-names.txt
